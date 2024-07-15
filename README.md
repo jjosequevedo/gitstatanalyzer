@@ -36,7 +36,7 @@ GitHub Stat Analyzer is a web application built with ASP.NET Core that connects 
     dotnet run
     ```
 
-    The API will be available at `https://localhost:5141`.
+    The API will be available at `http://localhost:5141/api/GitHubStats/letter-frequencies`.
 
 ## Usage
 
